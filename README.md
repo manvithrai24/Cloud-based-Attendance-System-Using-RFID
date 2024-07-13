@@ -2,14 +2,15 @@
 The Cloud-Based Attendance System uses RFID tags scanned by readers at entry points. An ESP8266 microcontroller reads the data and sends it via Wi-Fi to Google Sheets for real-time storage and processing. This automates attendance tracking, eliminates manual entry, and provides immediate, accurate records accessible from anywhere using Google Sheet
 
 How It Works:
-RFID Scanning: When an individual passes through the RFID reader, the reader scans the RFID tag and sends the tag ID to the ESP8266 microcontroller.
+*RFID Scanning: When an individual passes through the RFID reader, the reader scans the RFID tag and sends the tag ID to the ESP8266 microcontroller.
 
-Data Transmission:The ESP8266 connects to the internet via Wi-Fi and sends the tag ID along with the timestamp to a Google Sheets API.
+*Data Transmission: The ESP8266 connects to the internet via Wi-Fi and sends the tag ID along with the timestamp to a Google Sheets API.
 
-Data Processing and Storage:Google Sheets receives the data and logs it in a pre-configured sheet. The sheet can be set up to record details such as the tag ID, timestamp, entry/exit status, and other relevant information.
-Real-Time Access and Reporting:
+*Data Processing and Storage: Google Sheets receives the data and logs it in a pre-configured sheet. The sheet can be set up to record details such as the tag ID, timestamp, entry/exit status, and other relevant information.
 
-Authorized personnel can access the Google Sheet from anywhere to view real-time attendance data, generate reports, and perform data analysis.
+*Real-Time Access and Reporting: Authorized personnel can access the Google Sheet from anywhere to view real-time attendance data, generate reports, and perform data analysis.
+
+
 Benefits:
 Automation: Eliminates manual attendance tracking, reducing errors and saving time.
 Real-Time Data: Provides instant access to attendance records from anywhere with an internet connection.
