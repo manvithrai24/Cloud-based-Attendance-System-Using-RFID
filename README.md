@@ -47,6 +47,24 @@ ESP8266 SETUP:
 
 
 DEMO: 
+
+
+
 ![IMG-20240713-WA0019](https://github.com/user-attachments/assets/058e2bbc-9f84-42e1-bd45-f4683a163f82)
+
+
+
+
+![IMG-20240713-WA0018](https://github.com/user-attachments/assets/b9dca9f5-8b2e-4edc-9ee3-302e2d5c3f8c)
+
+
+
+
+
+
+![IMG-20240713-WA0016](https://github.com/user-attachments/assets/39c3c734-1c36-422e-9efb-ecacd28ee7e4)
+
+
+
 
 
