@@ -38,3 +38,15 @@ Scalability: You can add multiple RFID readers connected to different ESP8266 mo
 Notifications and Alerts: Integrate with Google Apps Script to send email notifications or alerts based on specific conditions (e.g., unauthorized access).
 Data Analysis: Use Google Sheets' built-in tools for data analysis, creating attendance reports, and visualizing trends.
 Maintenance: Regularly check the system for hardware issues, update the software as needed, and ensure the Google Sheets API quota is not exceeded.
+
+
+
+ESP8266 SETUP: 
+![iot_attendance_connections](https://github.com/user-attachments/assets/492b0b42-aaaf-40d5-aac2-af3e537a8b54)
+
+
+
+DEMO: 
+![IMG-20240713-WA0019](https://github.com/user-attachments/assets/058e2bbc-9f84-42e1-bd45-f4683a163f82)
+
+
